@@ -1,0 +1,8 @@
+README.md
+setup.py
+joiner/__init__.py
+joiner/file_transform.py
+joiner.egg-info/PKG-INFO
+joiner.egg-info/SOURCES.txt
+joiner.egg-info/dependency_links.txt
+joiner.egg-info/top_level.txt
