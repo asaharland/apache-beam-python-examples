@@ -12,7 +12,7 @@ Please follow the steps below to run the example:
 2. Enable Cloud Dataflow API in your 
 Google Cloud Platform project 
 
-#### Batch pipeline:
+### Batch pipeline:
 Run the following command to execute the batch pipeline:
 ```
 python -m complete.batch_pipeline.batch_pipeline \
