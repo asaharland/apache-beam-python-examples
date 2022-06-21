@@ -28,7 +28,7 @@ httplib2==0.11.3
 idna==2.8
 mock==2.0.0
 monotonic==1.5
-numpy==1.16.1
+numpy==1.22.0
 oauth2client==3.0.0
 pbr==5.1.2
 proto-google-cloud-datastore-v1==0.90.4
